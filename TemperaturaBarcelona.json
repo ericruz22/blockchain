@@ -1,0 +1,35 @@
+{
+    "cities": [
+      {
+        "city": "Barcelona",
+        "temperature": 28.5,
+        "humidity": 65
+      },
+      {
+        "city": "Madrid",
+        "temperature": 31.2,
+        "humidity": 45
+      },
+      {
+        "city": "Valencia",
+        "temperature": 27.8,
+        "humidity": 55
+      },
+      {
+        "city": "Sevilla",
+        "temperature": 33.5,
+        "humidity": 40
+      },
+      {
+        "city": "Bilbao",
+        "temperature": 22.3,
+        "humidity": 70
+      },
+      {
+        "city": "Malaga",
+        "temperature": 29.1,
+        "humidity": 60
+      }
+    ]
+  }
+  
