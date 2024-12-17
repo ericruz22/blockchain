@@ -1,0 +1,27 @@
+[
+    {
+      "id": "0",
+      "name": "Heartbleed",
+      "description": "Una vulnerabilidad crítica en OpenSSL que permitió la filtración de datos sensibles en servidores seguros.",
+      "image": "https://duckduckgo.com/i/2be63a8e19369f8d.png"
+    },
+    {
+      "id": "1",
+      "name": "WannaCry Ransomware",
+      "description": "El ransomware que afectó a sistemas Windows en 2017 utilizando el exploit EternalBlue.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%EA%B0%90%EC%97%BC%EC%82%AC%EC%A7%84.png/640px-%EA%B0%90%EC%97%BC%EC%82%AC%EC%A7%84.png"
+    },
+    {
+      "id": "2",
+      "name": "Spectre",
+      "description": "Una vulnerabilidad que afecta a los procesadores modernos, permitiendo ataques de canal lateral para acceder a datos sensibles.",
+      "image": "https://duckduckgo.com/i/bdf4fffb2589c7d6.png"
+    },
+    {
+      "id": "3",
+      "name": "Equifax Data Breach 2017",
+      "description": "Un ciberataque masivo que comprometió información personal de aproximadamente 147 millones de personas.",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcharliemeier.net%2Fwp-content%2Fuploads%2Fsites%2F37%2F2017%2F09%2Fequifax.jpg&f=1&nofb=1&ipt=6e63a449a602df12d994f9a6a8bdd02ba0606d5fcba61fc1cbb9782fc81c1e1c&ipo=images"
+    }
+  ]
+  
